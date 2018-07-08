@@ -1,0 +1,11 @@
+D:\Visualprogramming\Database with LocalDB\Database with LocalDB\obj\Debug\Database_with_LocalDB.Form1.resources
+D:\Visualprogramming\Database with LocalDB\Database with LocalDB\obj\Debug\Database_with_LocalDB.Properties.Resources.resources
+D:\Visualprogramming\Database with LocalDB\Database with LocalDB\obj\Debug\Database with LocalDB.csproj.GenerateResource.cache
+D:\Visualprogramming\Database with LocalDB\Database with LocalDB\obj\Debug\Database with LocalDB.csproj.CoreCompileInputs.cache
+D:\Visualprogramming\Database with LocalDB\Database with LocalDB\bin\Debug\Database.mdf
+D:\Visualprogramming\Database with LocalDB\Database with LocalDB\bin\Debug\Database_log.ldf
+D:\Visualprogramming\Database with LocalDB\Database with LocalDB\bin\Debug\Database with LocalDB.exe.config
+D:\Visualprogramming\Database with LocalDB\Database with LocalDB\bin\Debug\Database with LocalDB.exe
+D:\Visualprogramming\Database with LocalDB\Database with LocalDB\bin\Debug\Database with LocalDB.pdb
+D:\Visualprogramming\Database with LocalDB\Database with LocalDB\obj\Debug\Database with LocalDB.exe
+D:\Visualprogramming\Database with LocalDB\Database with LocalDB\obj\Debug\Database with LocalDB.pdb
